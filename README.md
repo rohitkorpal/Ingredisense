@@ -4,6 +4,7 @@
 This contains everything you need to run your app locally.
 
 View my app : https://ai.studio/apps/drive/1Tt8waSM9MKa8CYvQpXvLRx4LQ4qT0ASq
+---
 IngredientSense AI Chatbot 🍽️🤖
 
 IngredientSense is an AI-powered chatbot designed to analyze food ingredients and nutrition facts to provide clear, user-friendly health insights. The project helps users understand whether a packaged food or snack is healthy by breaking down fats, sugar, sodium, calories, and key nutrients, along with practical cautions and trade-offs.
