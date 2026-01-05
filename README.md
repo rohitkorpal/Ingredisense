@@ -51,7 +51,7 @@ ingredisense/
 
 
 
-git clone https://github.com/your-username/ingredisense.git
+git clone (https://github.com/rohitkorpal/Ingredisense/tree/main)
 cd ingredisense
 
 2. Install dependencies:
