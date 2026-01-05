@@ -3,11 +3,11 @@
 
 This contains everything you need to run your app locally.
 
-View my app : (https://ai.studio/apps/drive/1Tt8waSM9MKa8CYvQpXvLRx4LQ4qT0ASq?fullscreenApplet=true)
+View my app : https://ai.studio/apps/drive/1Tt8waSM9MKa8CYvQpXvLRx4LQ4qT0ASq?fullscreenApplet=true
 ---
 IngrediSense AI Chatbot 🍽️🤖
 
-IngredientSense is an AI-powered chatbot designed to analyze food ingredients and nutrition facts to provide clear, user-friendly health insights. The project helps users understand whether a packaged food or snack is healthy by breaking down fats, sugar, sodium, calories, and key nutrients, along with practical cautions and trade-offs.
+IngrediSense is an AI-powered chatbot designed to analyze food ingredients and nutrition facts to provide clear, user-friendly health insights. The project helps users understand whether a packaged food or snack is healthy by breaking down fats, sugar, sodium, calories, and key nutrients, along with practical cautions and trade-offs.
 
 🚀 Features
 
@@ -30,9 +30,9 @@ Frontend: Streamlit / Web UI (HTML, CSS, JS – if integrated)
 
 Backend: Python
 
-AI/NLP: Rule-based logic + ML/NLP models (optional integration)
+AI/NLP: Rule-based logic + ML/NLP models 
 
-Libraries: Pandas, NumPy, scikit-learn (as applicable)
+Libraries: Pandas, NumPy, scikit-learn 
 
 
 📂 Project Structure
@@ -79,7 +79,7 @@ Base system for diet, fitness, or health-tech apps
 
 ⚠️ Disclaimer
 
-IngredientSense provides informational insights only. It is not a medical or dietary substitute. Always consult a healthcare or nutrition professional for personalized advice.
+IngrediSense provides informational insights only. It is not a medical or dietary substitute. Always consult a healthcare or nutrition professional for personalized advice.
 
 🌱 Future Improvements
 
