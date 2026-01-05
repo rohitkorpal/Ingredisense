@@ -1,0 +1,7 @@
+{
+  "name": "IngrediSense",
+  "description": "An AI-native ingredient interpretation co-pilot that transforms confusing labels into clear, reasoned understanding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
